@@ -1,6 +1,6 @@
 {
   "name": "comment-ratio",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "private": true,
   "description": "GitHub Action that fails pull requests whose added code outpaces added comments. Powered by tokei.",
   "keywords": [
