@@ -28,7 +28,7 @@ jobs:
       # With pending changesets this opens/updates the "Version Packages" pull
       # request. With none, it does nothing and the next step cuts the release.
       - name: Create release pull request
-        uses: changesets/action@v1
+        uses: changesets/action@v2
         with:
           version: pnpm release:version
           commit: "chore: version packages"
