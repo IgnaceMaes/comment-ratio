@@ -51,16 +51,16 @@
   },
   "devDependencies": {
     "@changesets/changelog-github": "^1.0.1",
-    "@changesets/cli": "^3.0.2",
-    "@types/node": "^26.5.0",
+    "@changesets/cli": "^3.0.3",
+    "@types/node": "^26.6.2",
     "@types/picomatch": "^4.0.3",
     "geist": "^1.7.2",
     "opentype.js": "^2.0.0",
-    "oxfmt": "^0.67.0",
-    "oxlint": "^1.82.0",
+    "oxfmt": "^0.68.0",
+    "oxlint": "^1.83.0",
     "tsdown": "^0.23.0",
     "typescript": "^7.0.2",
-    "vitest": "^5.0.0"
+    "vitest": "^5.0.1"
   },
   "engines": {
     "node": ">=24"
